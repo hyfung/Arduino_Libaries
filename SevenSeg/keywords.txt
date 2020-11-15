@@ -1,0 +1,2 @@
+SevenSeg	KEYWORD1
+writeNumber	KEYWORD2

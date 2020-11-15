@@ -1,0 +1,4 @@
+Joystick KEYWORD1
+X KEYWORD2
+Y KEYWORD2
+buttonPressed KEYWORD2

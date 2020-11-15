@@ -1,0 +1,8 @@
+L3G4200D	KEYWORD1
+enableDefault	KEYWORD2
+readReg	KEYWORD2
+WriteReg	KEYWORD2
+read	KEYWORD2
+vector_cross	KEYWORD2
+vector_dot	KEYWORD2
+vector_normalize	KEYWORD2

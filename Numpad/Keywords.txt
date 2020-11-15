@@ -1,0 +1,4 @@
+Numpad KEYWORD1
+getKey KEYWORD2
+col KEYWORD2
+row KEYWORD2
